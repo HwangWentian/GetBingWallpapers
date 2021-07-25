@@ -1,7 +1,7 @@
 # UsePythonToGetBeautifulBingWallpapers
 用 python requests 库获取每日的壁纸并保存至本地
 
-我只有12岁，在编写HTML版中的内容时由于能力不足，只好调用了第三方接口。
+在编写HTML版中的内容时由于能力不足，只好调用了第三方接口。
 HTML版中的图片分别是必应的图标和CSDN的背景，在此声明
 
 第二版直接解析返回的HTML数据，所以保存的图片都是以数字为名的；
